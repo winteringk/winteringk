@@ -1,6 +1,9 @@
 - 👋 Hi, I’m THANYALUCK INTAYO
-- 👀 I’m interested in JAVA and UX/ UI Design
-- 🌱 I’m currently learning C++ and JAVA
+- 👩‍🎓 Computer Science from Chiang mai university
+- Beginner: Python/ JAVA/ Flutter-Dart/ User experience (UX) Design/ User Interface (UI) Design
+- Intermediate: Adobe Photoshop/ Adobe Illustrator
+- 👀 I’m interested in javascript/ react
+- 🌱 I’m currently learning UX and react
 
 <!---
 winteringk/winteringk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
